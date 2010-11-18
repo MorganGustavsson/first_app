@@ -7,3 +7,5 @@ This is a test application to learn the following:
 3) Learn the Heroku-platform
 
 *By Morgan Gustavsson*
+
+(if you need any help, call me! /Patric)
